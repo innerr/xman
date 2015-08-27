@@ -1,1 +1,1 @@
-./pull.sh | python handle.py
+./pull.sh | python main.py
